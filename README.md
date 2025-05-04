@@ -10,6 +10,11 @@ This project demonstrates a simple loader animation using HTML and CSS. The load
 - Lightweight and responsive design.
 - Easy to customize.
 
+## Make changes
+- If you want then you can make changes in this loader.
+- To make changes first clone this in your system.
+- Then add more CSS or Html content to make it more interactive.
+
 ### HTML
 ```html
 <div class="loader"></div>
