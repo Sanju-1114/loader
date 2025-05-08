@@ -26,4 +26,4 @@ git clone https://github.com/Sanju-1114/loader.git
 ```
 
 ## Author
-- (Sanju-1114) [Sanju]
+- `Sanju-1114` [Sanju]
