@@ -14,6 +14,8 @@ This project demonstrates a simple loader animation using HTML and CSS. The load
 - If you want then you can make changes in this loader.
 - To make changes first clone this in your system.
 - Then add more CSS or Html content to make it more interactive.
+- Then create pull request to merge
+  
 ### HTML
 ```html
 <div class="loader"></div>
