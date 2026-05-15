@@ -29,6 +29,8 @@ This project demonstrates a simple loader animation using HTML and CSS. The load
 <div class="loader"></div>
 ```
 
+---
+
 ## Clone
 ```bash
 git clone https://github.com/Sanju-1114/loader.git
