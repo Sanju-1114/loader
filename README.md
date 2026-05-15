@@ -36,5 +36,7 @@ This project demonstrates a simple loader animation using HTML and CSS. The load
 git clone https://github.com/Sanju-1114/loader.git
 ```
 
+---
+
 ## Author
 - [Sanju](https://github.com/Sanju-1114/)
