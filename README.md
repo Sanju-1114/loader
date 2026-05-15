@@ -22,6 +22,8 @@ This project demonstrates a simple loader animation using HTML and CSS. The load
 - Then add more CSS or Html content to make it more interactive.
 - Then create pull request to merge
   
+---
+
 ### HTML
 ```html
 <div class="loader"></div>
